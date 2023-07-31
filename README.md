@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Namonaki0/FE-mentor-QR-code)
-- Live Site URL: [Add live site URL here](https://fementor-af-qrcodechallenge.netlify.app/)
+- Solution URL: [https://github.com/Namonaki0/FE-mentor-QR-code](https://github.com/Namonaki0/FE-mentor-QR-code)
+- Live Site URL: [https://fementor-af-qrcodechallenge.netlify.app/](https://fementor-af-qrcodechallenge.netlify.app/)
 
 ## My process
 
