@@ -26,10 +26,12 @@ For this instance there was no need for anything more complicated.
 
 ### Continued development
 
-Netlify used for deployment: [QR Code Component URL]()
+Netlify used for deployment: [QR Code Component URL](https://fementor-af-qrcodechallenge.netlify.app/)
 
 ## Author
 
 - Website - [Andre Ferreira](https://www.andreferreiradev.com/)
 - Frontend Mentor - [@Namonaki0](https://www.frontendmentor.io/profile/Namonaki0)
 - Github - [Andre Ferreira - @Namonaki0](https://github.com/Namonaki0)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e83c56b0-3b04-4869-ac62-929bed2c9fda/deploy-status)](https://app.netlify.com/sites/spontaneous-beijinho-214c38/deploys)
