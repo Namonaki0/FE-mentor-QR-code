@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Namonaki0/FE-mentor-QR-code)
+- Live Site URL: [Add live site URL here](https://fementor-af-qrcodechallenge.netlify.app/)
 
 ## My process
 
@@ -24,9 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 For this instance there was no need for anything more complicated.
 
-### Continued development
-
-Netlify used for deployment: [QR Code Component URL](https://fementor-af-qrcodechallenge.netlify.app/)
+Netlify used for deployment.
 
 ## Author
 
@@ -34,4 +32,4 @@ Netlify used for deployment: [QR Code Component URL](https://fementor-af-qrcodec
 - Frontend Mentor - [https://www.frontendmentor.io/profile/Namonaki0](https://www.frontendmentor.io/profile/Namonaki0)
 - Github - [https://github.com/Namonaki0](https://github.com/Namonaki0)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e83c56b0-3b04-4869-ac62-929bed2c9fda/deploy-status)](https://app.netlify.com/sites/spontaneous-beijinho-214c38/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e83c56b0-3b04-4869-ac62-929bed2c9fda/deploy-status)](https://app.netlify.com/sites/fementor-af-qrcodechallenge/deploys)
